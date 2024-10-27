@@ -13,8 +13,4 @@
 </div>
 
 
-## Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=htetaunglin&layout=compact&theme=radical&include_all_commits=true)
-
-
 
