@@ -1,6 +1,6 @@
 # Hello!👋 I'm Htet Aung Lin, Welcome to my codingverse💫 
 
-I'm a software developer providing mobile app development service. I've experiences in the developing of mobile applications by using both Android, iOS and Flutter frameworks.
+I'm a software developer providing mobile app development service. I've experiences in the developing of mobile applications by using Android, iOS and Flutter frameworks.
 
 - 🔭 I’m currently working at [Grand Royal Group International](https://www.grandroyal-group.com)
 - 🌱 Learning more about Mobile Application Development.
@@ -14,9 +14,7 @@ I'm a software developer providing mobile app development service. I've experien
 
 ### 🔥 My GitHub Stats
 <div style="display: flex; justify-content: center; align-items: center; max-width: 1000px; margin: 0 auto; gap: 20px;">
-    <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=htetaunglin&theme=dark" alt="GitHub Streak" style="width: 42%;" />
-    </a>
+    <img src="https://streak-stats.demolab.com/?user=htetaunglin&theme=dark" alt="GitHub Streak" style="width: 42%;" />
     <img src="https://github-readme-stats.vercel.app/api?username=htetaunglin&show_icons=true&theme=radical" style="width: 40%" alt="Htet Aung Lin's GitHub stats" />
 </div>
 
