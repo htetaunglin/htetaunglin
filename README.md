@@ -1,4 +1,4 @@
-# Hello, Welcome to my codingverse, I'm Htet Aung Lin 👋
+# Hello!👋 I'm Htet Aung Lin, Welcome to my codingverse💫 
 
 I'm a software developer providing mobile app development service. I've experiences in the developing of mobile applications by using both Android, iOS and Flutter frameworks.
 
