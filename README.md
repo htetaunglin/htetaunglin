@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 ![Htet Aung Lin's GitHub stats](https://github-readme-stats.vercel.app/api?username=htetaunglin&show_icons=true&theme=radical)
 
 ## Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=htetaunglin&layout=compact&theme=radical&count_private=true&include_all_commits=true&token=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)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=htetaunglin&layout=compact&theme=radical&include_all_commits=true)
 
