@@ -17,7 +17,7 @@ I'm a software developer providing mobile app development service. I've experien
     <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com/?user=htetaunglin&theme=dark" alt="GitHub Streak" style="width: 42%;" />
     </a>
-    <img src="https://github-readme-stats.vercel.app/api?username=htetaunglin&show_icons=true&theme=radical" style="width: 40%" alt="Linn Thit's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=htetaunglin&show_icons=true&theme=radical" style="width: 40%" alt="Htet Aung Lin's GitHub stats" />
 </div>
 
 ### 🚀 Let’s Connect!
