@@ -2,7 +2,7 @@
 
 I'm a software developer providing mobile app development service. I've experiences in the developing of mobile applications by using Android, iOS and Flutter frameworks.
 
-- 🔭 I’m currently working at [Grand Royal Group International](https://www.grandroyal-group.com)
+- 🔭 I’m currently working at [Thai Beverage](https://www.thaibev.com)
 - 🌱 Learning more about Mobile Application Development.
 - 📫 How to reach me: [htetaunglin.job@gmail.com](mailto:htetaunglin.job@gmail.com)
 - 🎉 Fun fact: I love building innovative solutions and exploring new technologies!
